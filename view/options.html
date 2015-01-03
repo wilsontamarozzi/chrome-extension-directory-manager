@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Configurações</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="/css/tema.css">
+	<script type="text/javascript" src="/js/jquery.js"></script>
+</head>	
+<body>
+<div id="page">
+	<div class="head">
+		<img id="logo" src="/image/icon-32.png"></img>
+		Configurações
+	</div> <!-- head -->
+	<div class="body">
+		<div class="controle">
+			<a href="#" class="myButton" id="btnAdicionar">Adicionar</a>
+			<a href="#" class="myButton" id="btnAtualizar">Atualizar</a>
+			<a href="#" class="myButton" id="btnReset">Limpar</a>
+		</div> <!-- controle -->
+		<div id="status"></div>
+		<div class="resultado">
+			<div class="CSSTableGenerator" id="grid">
+            <table id="tabela">
+            <tr>
+                <td id="nome">
+                    Nome
+                </td id="caminho">
+                <td>
+                    Caminho
+                </td>
+				<td class="tdSmall">
+					Ativo
+				</td>
+                <td class="tdSmall">
+					Opção
+                </td>
+            </tr>
+            </table>
+        </div>
+	</div> <!-- resultado -->
+</div> <!-- body -->
+</div> <!-- page -->
+<script src="/js/configuracao.js"></script>
+<script src="/js/jquery.bpopup.min.js"></script>
+</body>
+<div id="element_to_pop_up">
+	<input id="txtNome" type="text" placeholder="Nome"></input>
+	<input id="txtCaminho" type="text" placeholder="Caminho"></input>
+	<input id="btnCancelar" type="button" class="myButton2" value="Cancela"></input>
+	<input id="btnOk" type="button" class="myButton3" value="Ok"></input>
+</div>
+</html>
