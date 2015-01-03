@@ -1,15 +1,15 @@
 Gerenciador de Diretórios
-==
+=
 
-*Resumo
+Resumo
 ==
 Gerenciador de Diretórios é uma extensão para o navegador Google Chrome, criada com intuito de ser possível escolher o diretório ao qual será salvo as imagens, podendo ser totalmente customizável os locais e nomes dos diretórios.
 
-*Objetivo
+Objetivo
 ==
 Ferramenta que facilita o trabalho de pessoas que trabalham com imagens no qual precisam ficar constantemente escolhendo o local onde será salvo as imagens no computador.
 
-*Funcionalidades
+Funcionalidades
 ==
 - Criação dos diretórios
 - Exclusão dos diretórios
@@ -18,7 +18,7 @@ Ferramenta que facilita o trabalho de pessoas que trabalham com imagens no qual 
 - Ranqueamento para adequar a visualização dos itens
 - Salvar imagens selecionando o diretório ao qual ela deverá ir
 
-*Modo de Uso
+Modo de Uso
 ==
 1. Criando um Diretório
 
