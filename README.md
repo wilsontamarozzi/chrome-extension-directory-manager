@@ -1,20 +1,16 @@
-chrome-extension-directory-manager
-==================================
-
-Extensão que gerencia o armazenamento de imagens em diretórios
-
 Gerenciador de Diretórios
+==
 
 *Resumo
-
+==
 Gerenciador de Diretórios é uma extensão para o navegador Google Chrome, criada com intuito de ser possível escolher o diretório ao qual será salvo as imagens, podendo ser totalmente customizável os locais e nomes dos diretórios.
 
 *Objetivo
-
+==
 Ferramenta que facilita o trabalho de pessoas que trabalham com imagens no qual precisam ficar constantemente escolhendo o local onde será salvo as imagens no computador.
 
 *Funcionalidades
-
+==
 - Criação dos diretórios
 - Exclusão dos diretórios
 - Limpeza de todos os registros
@@ -23,7 +19,7 @@ Ferramenta que facilita o trabalho de pessoas que trabalham com imagens no qual 
 - Salvar imagens selecionando o diretório ao qual ela deverá ir
 
 *Modo de Uso
-
+==
 1. Criando um Diretório
 
 Deve se clicar no ícone do aplicativo para que abra o painel de funções. Em seguida clicar no botão Adicionar para que abra o formulário de cadastro. No formulário deve ser preenchido um Nome (exemplo: marketing) e um Caminho (exemplo: imagens/marketing/). Importante: O caminho sempre deve termina com uma / sinalizando que a ultima palavra é um diretório.
